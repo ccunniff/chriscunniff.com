@@ -1,0 +1,23 @@
+{
+  "name": "chriscunniff.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccunniff/chriscunniff.com.git"
+  },
+  "author": "Christopher J. Cunniff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccunniff/chriscunniff.com/issues"
+  },
+  "homepage": "https://github.com/ccunniff/chriscunniff.com",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  }
+}

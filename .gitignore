@@ -1,1 +1,5 @@
+# OSX binaries
 .DS_Store
+
+# Dependency directory
+node_modules
