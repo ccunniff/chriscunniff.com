@@ -7,3 +7,15 @@ body {
   width:20px;
   height:20px;
 }
+
+.table th, .table td {
+  border-top: none !important;
+}
+
+.table {
+  margin-bottom: 0px;
+}
+
+hr {
+  margin-top: 10px; margin-bottom: 10px
+}
